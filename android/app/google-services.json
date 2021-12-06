@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918446525516",
+    "project_id": "projectalucar-76539",
+    "storage_bucket": "projectalucar-76539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918446525516:android:3713df8352e972740d78e9",
+        "android_client_info": {
+          "package_name": "projectalucar.com.project_alucar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918446525516-9544jgobguijlih52lk6lfs5j4q5fkp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_mqpbCOK6ZTyQ3QLKxAvhPb7AxdZygo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918446525516-9544jgobguijlih52lk6lfs5j4q5fkp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
